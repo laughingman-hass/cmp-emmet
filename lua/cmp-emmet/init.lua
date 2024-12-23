@@ -1,5 +1,6 @@
 local supported_filetypes = {
   'css',
+  'eruby',
   'html',
   'javascript',
   'javascriptreact',
